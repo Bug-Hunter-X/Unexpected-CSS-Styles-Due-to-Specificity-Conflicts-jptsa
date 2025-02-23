@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in CSS: unexpected styling behavior due to specificity conflicts and overuse of !important. The `bug.css` file contains the problematic CSS, resulting in unexpected visual output. The `bugSolution.css` file provides a solution to correct the styling and improve maintainability.
